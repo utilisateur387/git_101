@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background: rgba(0,0,0,0.05);
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
 #logo {
 	width: 80px;
 	height: 80px;
+	border-radius: 50%;
 }
 
 #container {
